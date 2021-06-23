@@ -11,17 +11,17 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "require.js", "index.css"], "outOfDate":[]};
 </script>
   
   <title>Главная</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=444006867"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?crc=3786167286" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?crc=1515982" id="pagesheet"/>
    </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- column -->
+  <div class="rounded-corners clearfix borderbox" id="page"><!-- column -->
    <div class="clearfix colelem" id="u113-4"><!-- content -->
     <p>ЭТО САЙТ ПОРТФОЛИО</p>
    </div>
@@ -33,18 +33,22 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clearfix colelem" id="u133-4"><!-- content -->
         <p>ПЕРЕЖОГИН КОНСТАНТИН СЕРГЕЕВИЧ</p>
        </div>
-       <div class="clearfix colelem" id="pu130-9"><!-- group -->
-        <div class="clearfix grpelem" id="u130-9"><!-- content -->
-         <p id="u130-2">День рождения:</p>
-         <p id="u130-4">Город:</p>
-         <p id="u130-6">Образование:</p>
-         <p>&nbsp;</p>
+       <div class="clearfix colelem" id="pu130-8"><!-- group -->
+        <div class="clearfix grpelem" id="u130-8"><!-- content -->
+         <p>День рождения:</p>
+         <p>Город:</p>
+         <p>Образование:</p>
         </div>
         <div class="clearfix grpelem" id="u136-8"><!-- content -->
          <p>19 мая 1993</p>
          <p>Тюмень</p>
          <p>Высшее</p>
         </div>
+       </div>
+       <div class="clearfix colelem" id="pu318"><!-- group -->
+        <a class="nonblock nontext shadow museBGSize rounded-corners grpelem" id="u318" href="https://vk.com/zip45" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></a>
+        <a class="nonblock nontext shadow museBGSize rounded-corners grpelem" id="u351" href="https://www.instagram.com/sport_cheer" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></a>
+        <a class="nonblock nontext shadow museBGSize rounded-corners grpelem" id="u374" href="https://www.youtube.com/SPORTCHEER" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- simple frame --></a>
        </div>
       </div>
      </div>
@@ -218,7 +222,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="1297" data-content-above-spacer="1297" data-content-below-spacer="254" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="1297" data-content-above-spacer="1297" data-content-below-spacer="989" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+  </div>
+  <div class="preload_images">
+   <img class="preload" src="images/vk_1.png?crc=4112009755" alt=""/>
+   <img class="preload" src="images/vk_0.png?crc=4234058805" alt=""/>
+   <img class="preload" src="images/in_1.png?crc=39067397" alt=""/>
+   <img class="preload" src="images/in_0.png?crc=518528244" alt=""/>
+   <img class="preload" src="images/yt_1.png?crc=301444040" alt=""/>
+   <img class="preload" src="images/yt_0.png?crc=399340796" alt=""/>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -231,7 +243,7 @@ var suppressMissingFileError = false
 k[1]:null,k=k&&k[2]?k[2]:null;switch(k.toLowerCase()){case "css":i=i.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");g.className+=" "+i;i=a(d(g,"color"));k=a(d(g,"backgroundColor"));i!=0||k!=0?(Muse.assets.required.splice(j,1),"undefined"!=typeof b[l]&&(i!=b[l]>>>24||k!=(b[l]&16777215))&&Muse.assets.outOfDate.push(l)):j++;g.className="version";break;case "js":j++;break;default:throw Error("Unsupported file type: "+k);}}c?c().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 g.parentNode.removeChild(g);if(Muse.assets.outOfDate.length||Muse.assets.required.length)g="Некоторые файлы на сервере могут отсутствовать или быть некорректными. Очистите кэш-память браузера и повторите попытку. Если проблему не удается устранить, свяжитесь с разработчиками сайта.",f&&Muse.assets.outOfDate.length&&(g+="\nOut of date: "+Muse.assets.outOfDate.join(",")),f&&Muse.assets.required.length&&(g+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(g+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(g)):alert(g)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){f(!0)},5E3):f()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musepolyfill.bgsize","jquery.watch"],function(c){var $ = c;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */

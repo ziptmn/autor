@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="zip.github.io" resolutions="1x" timestamp="1624429980066">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ziptmn.github.io" resolutions="1x" timestamp="1624450628565">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="___-_____-2.css" crc="4193191577" ref="без-имени-2"/>
-    <file name="index.css" crc="3786167286" ref="index"/>
+    <file name="index.css" crc="1515982" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-2"/>
@@ -11,12 +11,34 @@
     <file name="museconfig.js" crc="4286661555" ref="index:без-имени-2"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:без-имени-2"/>
     <file name="require.js" crc="7928878" ref="index:без-имени-2"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
   </folder>
   <folder name="images">
     <file name="я.png" crc="46958790" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="vk_0.png" crc="4234058805" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="vk_1.png" crc="4112009755" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="in_0.png" crc="518528244" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="in_1.png" crc="39067397" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yt_0.png" crc="399340796" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yt_1.png" crc="301444040" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3962256914" seo="true" mt="1624429839296" redirect="true"/>
+  <file name="index.html" crc="357841610" seo="true" mt="1624450628263" redirect="true"/>
   <file name="без-имени-2.html" crc="14765900" seo="true" mt="1624427769489" redirect="false"/>
 </manifest>
