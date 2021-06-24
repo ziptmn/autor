@@ -2,9 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ziptmn.github.io/index.html</loc>
-    <lastmod>2021-06-23</lastmod>
+    <lastmod>2021-06-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D1%84%D0%BF%D0%B3%201-crop-u418.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D1%84%D0%BF%D0%B3%202-crop-u485.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D1%84%D0%BF%D0%B3%203-crop-u505.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D1%84%D0%BF%D0%B3%204-crop-u547.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D1%82%D1%83%D1%82%D0%B1%D0%B0%D1%82%D1%83%D1%82%201-crop-u592.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D1%82%D1%83%D1%82%D0%B1%D0%B0%D1%82%D1%83%D1%82%202-crop-u812.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D1%82%D1%83%D1%82%D0%B1%D0%B0%D1%82%D1%83%D1%82%203-crop-u832.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D1%82%D1%83%D1%82%D0%B1%D0%B0%D1%82%D1%83%D1%82%204-crop-u852.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%20%D1%87%D0%B8%D1%80%201-crop-u885.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%20%D1%87%D0%B8%D1%80%202-crop-u1003.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D0%B1%D0%B0%D1%81%D0%BA%D0%B5%D1%82%20%D1%87%D0%B8%D1%80%203-crop-u1023.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ziptmn.github.io/images/%D0%BF%D0%B0%D1%80%D0%B0%D1%88%D1%83%D1%82.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://ziptmn.github.io/%D0%B1%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-2.html</loc>

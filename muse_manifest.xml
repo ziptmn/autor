@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ziptmn.github.io" resolutions="1x" timestamp="1624450628565">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ziptmn.github.io" resolutions="1x" timestamp="1624538841337">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="___-_____-2.css" crc="4193191577" ref="без-имени-2"/>
-    <file name="index.css" crc="1515982" ref="index"/>
+    <file name="index.css" crc="3929351737" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-2"/>
@@ -12,11 +12,12 @@
     <file name="jquery.watch.js" crc="51536988" ref="index:без-имени-2"/>
     <file name="require.js" crc="7928878" ref="index:без-имени-2"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="я.png" crc="46958790" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="vk_0.png" crc="4234058805" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -38,7 +39,57 @@
     <file name="yt_1.png" crc="301444040" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="я-u116.png" crc="358822520" ref="index"/>
+    <file name="я-u116-r.png" crc="412260787" ref="index"/>
+    <file name="я2-u116-m.png" crc="4186392885" ref="index"/>
+    <file name="фпг 1-crop-u418.jpg" crc="288445542" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="фпг 2-crop-u485.jpg" crc="4020153212" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фпг 3-crop-u505.jpg" crc="400557211" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="фпг 4-crop-u547.jpg" crc="113127307" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="тутбатут 1-crop-u592.jpg" crc="3962457251" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тутбатут 2-crop-u812.jpg" crc="146652098" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тутбатут 3-crop-u832.jpg" crc="4290317871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="тутбатут 4-crop-u852.jpg" crc="132331003" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="баскет чир 1-crop-u885.jpg" crc="491774268" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="баскет чир 2-crop-u1003.jpg" crc="463177674" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="баскет чир 3-crop-u1023.jpg" crc="195020323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1029686-200-u1086-a-fr.png" crc="4242210879" ref="index"/>
+    <file name="50958-200-u1199-a-fr.png" crc="4069820791" ref="index"/>
+    <file name="342740-200-u1255-a-fr.png" crc="15648524" ref="index"/>
+    <file name="парашут.jpg" crc="449906293" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="слардар.jpg" crc="5336830" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="вд.jpg" crc="457055521" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="357841610" seo="true" mt="1624450628263" redirect="true"/>
+  <file name="index.html" crc="4030744862" seo="true" mt="1624538840670" redirect="true"/>
   <file name="без-имени-2.html" crc="14765900" seo="true" mt="1624427769489" redirect="false"/>
 </manifest>
