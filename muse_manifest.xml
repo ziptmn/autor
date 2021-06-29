@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ziptmn.github.io" resolutions="1x" timestamp="1624538841337">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ziptmn.github.io" resolutions="1x" timestamp="1624975181223">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="___-_____-2.css" crc="4193191577" ref="без-имени-2"/>
-    <file name="index.css" crc="3929351737" ref="index"/>
+    <file name="index.css" crc="9382175" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-2"/>
@@ -89,7 +89,21 @@
     <file name="вд.jpg" crc="457055521" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="38798-200-u1424-a-fr.png" crc="3906930579" ref="index"/>
+    <file name="897675-200-u1502-a-fr.png" crc="3911094539" ref="index"/>
+    <file name="дота2.jpg" crc="148175323" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="дота1.jpg" crc="19082356" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="дота3.jpg" crc="4116959686" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ютуб1.jpg" crc="3906462571" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4030744862" seo="true" mt="1624538840670" redirect="true"/>
+  <file name="index.html" crc="4026868591" seo="true" mt="1624975180406" redirect="true"/>
   <file name="без-имени-2.html" crc="14765900" seo="true" mt="1624427769489" redirect="false"/>
 </manifest>
