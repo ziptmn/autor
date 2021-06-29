@@ -5,6 +5,7 @@
     <lastmod>2021-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://ziptmn.github.io/phone/index.html"/>
     <image:image>
       <image:loc>http://ziptmn.github.io/images/%D1%84%D0%BF%D0%B3%201-crop-u418.jpg</image:loc>
     </image:image>
@@ -44,7 +45,7 @@
   </url>
   <url>
     <loc>http://ziptmn.github.io/%D0%B1%D0%B5%D0%B7-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8-2.html</loc>
-    <lastmod>2021-06-23</lastmod>
+    <lastmod>2021-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
