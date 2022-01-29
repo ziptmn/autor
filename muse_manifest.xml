@@ -1,61 +1,57 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ziptmn.github.io" resolutions="1x" timestamp="1624976008337">
-  <folder name="phone">
-    <folder name="css">
-      <file name="index.css" crc="4268968316" ref="phone>index"/>
-      <file name="___-_____-2.css" crc="62426684" ref="phone>без-имени-2"/>
-    </folder>
-    <file name="index.html" crc="4145493720" seo="true" mt="1624975960088" redirect="true"/>
-    <file name="без-имени-2.html" crc="22226511" seo="true" mt="1624975465171" redirect="false"/>
-  </folder>
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ziptmn.github.io" resolutions="1x" timestamp="1643481619500">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
+    <file name="kubus.css" crc="3826444880" ref="kubus"/>
     <file name="___-_____-2.css" crc="4193191577" ref="без-имени-2"/>
-    <file name="index.css" crc="9382175" ref="index"/>
+    <file name="index.css" crc="3866251998" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:без-имени-2:phone>index:phone>без-имени-2"/>
-    <file name="museutils.js" crc="340535759" ref="index:без-имени-2:phone>index:phone>без-имени-2"/>
-    <file name="whatinput.js" crc="86476730" ref="index:без-имени-2:phone>index:phone>без-имени-2"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:без-имени-2:phone>index:phone>без-имени-2"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:без-имени-2:phone>index:phone>без-имени-2"/>
-    <file name="require.js" crc="7928878" ref="index:без-имени-2:phone>index:phone>без-имени-2"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:phone>index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index:kubus"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="vk_0.png" crc="4234058805" ref="index:phone>index">
+    <file name="vk_0.png" crc="4234058805" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="vk_1.png" crc="4112009755" ref="index:phone>index">
+    <file name="vk_1.png" crc="4112009755" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="in_0.png" crc="518528244" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="in_1.png" crc="39067397" ref="index:phone>index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="yt_0.png" crc="399340796" ref="index:phone>index">
+    <file name="in_0.png" crc="518528244" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="yt_1.png" crc="301444040" ref="index:phone>index">
+    <file name="in_1.png" crc="39067397" ref="phone>index:index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
+    <file name="yt_0.png" crc="399340796" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yt_1.png" crc="301444040" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="я-u1596.png" crc="358822520" ref="phone>index"/>
+    <file name="я-u1596-r.png" crc="412260787" ref="phone>index"/>
+    <file name="я2-u1596-m.png" crc="4186392885" ref="phone>index"/>
     <file name="я-u116.png" crc="358822520" ref="index"/>
     <file name="я-u116-r.png" crc="412260787" ref="index"/>
     <file name="я2-u116-m.png" crc="4186392885" ref="index"/>
@@ -97,6 +93,8 @@
     <file name="1029686-200-u1086-a-fr.png" crc="4242210879" ref="index"/>
     <file name="50958-200-u1199-a-fr.png" crc="4069820791" ref="index"/>
     <file name="342740-200-u1255-a-fr.png" crc="15648524" ref="index"/>
+    <file name="38798-200-u1424-a-fr.png" crc="3906930579" ref="index"/>
+    <file name="897675-200-u1502-a-fr.png" crc="3911094539" ref="index"/>
     <file name="парашут.jpg" crc="449906293" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -106,8 +104,6 @@
     <file name="вд.jpg" crc="457055521" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="38798-200-u1424-a-fr.png" crc="3906930579" ref="index"/>
-    <file name="897675-200-u1502-a-fr.png" crc="3911094539" ref="index"/>
     <file name="дота2.jpg" crc="148175323" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -120,10 +116,19 @@
     <file name="ютуб1.jpg" crc="3906462571" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="я-u1596.png" crc="358822520" ref="phone>index"/>
-    <file name="я-u1596-r.png" crc="412260787" ref="phone>index"/>
-    <file name="я2-u1596-m.png" crc="4186392885" ref="phone>index"/>
+    <file name="logo.png" crc="522752918" ref="kubus">
+      <caption webpage="kubus" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="531290891" seo="true" mt="1624975465327" redirect="true"/>
+  <folder name="phone">
+    <folder name="css">
+      <file name="___-_____-2.css" crc="62426684" ref="phone>без-имени-2"/>
+      <file name="index.css" crc="3899661539" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="327752422" seo="true" mt="1624975960088" redirect="true"/>
+    <file name="без-имени-2.html" crc="22226511" seo="true" mt="1624975465171" redirect="false"/>
+  </folder>
+  <file name="index.html" crc="297709600" seo="true" mt="1643480955586" redirect="true"/>
   <file name="без-имени-2.html" crc="14765900" seo="true" mt="1624975465368" redirect="false"/>
+  <file name="kubus.html" crc="459009005" seo="true" mt="1643481618075" redirect="true"/>
 </manifest>
