@@ -1,18 +1,19 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ziptmn.github.io" resolutions="1x" timestamp="1643481619500">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ziptmn.github.io" resolutions="1x" timestamp="1644249263326">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="kubus.css" crc="3826444880" ref="kubus"/>
     <file name="___-_____-2.css" crc="4193191577" ref="без-имени-2"/>
-    <file name="index.css" crc="3866251998" ref="index"/>
+    <file name="curling-quiz.css" crc="3866983004" ref="curling-quiz"/>
+    <file name="index.css" crc="4079025396" ref="index"/>
+    <file name="kubus.css" crc="3826444880" ref="kubus"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
-    <file name="museutils.js" crc="340535759" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
-    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
-    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index:kubus"/>
-    <file name="require.js" crc="7928878" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus:curling-quiz"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus:curling-quiz"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus:curling-quiz"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus:curling-quiz"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus:curling-quiz"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="phone>index:index:kubus:curling-quiz"/>
+    <file name="require.js" crc="7928878" ref="phone>index:phone>без-имени-2:index:без-имени-2:kubus:curling-quiz"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
@@ -119,16 +120,19 @@
     <file name="logo.png" crc="522752918" ref="kubus">
       <caption webpage="kubus" alt=""/>
     </file>
+    <file name="слой_x0020_1.svg" crc="3977204129" ref="curling-quiz"/>
+    <file name="слой_x0020_1_poster_u1801.png" crc="4203713973" ref="curling-quiz"/>
   </folder>
   <folder name="phone">
     <folder name="css">
       <file name="___-_____-2.css" crc="62426684" ref="phone>без-имени-2"/>
-      <file name="index.css" crc="3899661539" ref="phone>index"/>
+      <file name="index.css" crc="506532393" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="327752422" seo="true" mt="1624975960088" redirect="true"/>
+    <file name="index.html" crc="505209706" seo="true" mt="1624975960088" redirect="true"/>
     <file name="без-имени-2.html" crc="22226511" seo="true" mt="1624975465171" redirect="false"/>
   </folder>
-  <file name="index.html" crc="297709600" seo="true" mt="1643480955586" redirect="true"/>
+  <file name="index.html" crc="406574374" seo="true" mt="1644249221830" redirect="true"/>
   <file name="без-имени-2.html" crc="14765900" seo="true" mt="1624975465368" redirect="false"/>
   <file name="kubus.html" crc="459009005" seo="true" mt="1643481618075" redirect="true"/>
+  <file name="curling-quiz.html" crc="11550144" seo="true" mt="1644249147097" redirect="true"/>
 </manifest>
